@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -41,8 +41,12 @@ Work experience
 
 Grant and Awards
 ======
-* 
-
+* Chinese Government Scholarship (tuition and stipends)
+	* Aug 2018 ~ Aug 2021, China Scholarship Council
+* Householder Research Funds
+	* Feb 2021, Department of Linguistics, Indiana University
+* Householder Best Paper Award
+	* Apr 2020, Department of Linguistics, Indiana University
   
 Languages
 ======
