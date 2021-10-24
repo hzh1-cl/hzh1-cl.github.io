@@ -11,21 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.A. Chinese Linguistics, Ludong University, Sep 2006 ~ Jun 2010
-* M.A. Linguistics and Applied Linguistics, Beijing Normal University, Sep 2010 ~ Jun 2013
-	* with a concentration in Chinese Information Processing
-* Ph.D. major in Computational Linguistics, Indiana University Bloomington, Aug 2017 ~ now
-	* minor in Informatics
+* Aug 2017 ~ now
+	* Ph.D. Computational Linguistics, Informatics minor, Indiana University
+* Sep 2010 ~ Jun 2013
+	* M.A. Linguistics and Applied Linguistics, Beijing Normal University
+	* with a concentration in _Chinese Information Processing_
+* Sep 2006 ~ Jun 2010
+	* B.A. Chinese Linguistics, Ludong University
+
 	
 
 Work experience
 ======
-* Program Officer at Division of Teachers, Confucius Institute Headquarters/Hanban (now Center for Language Education and Cooperation), Jul 2013 ~ Jun 2016
-  * Management of Chinese government dispatched language teachers in Asian countries
-  * Overseas Chinese Language Teacher Training Program
+* Jul 2013 ~ Jun 2016
+	* Program Officer at Division of Teachers, Confucius Institute Headquarters/Hanban (now Center for Language Education and Cooperation)
+		* Chinese Language Teacher Management
+		* Overseas Chinese Language Teacher Training Program
 
-* Chinese Teacher, International Chinese Training Center, Beijing University of Posts and Telecommunications, Sep 2011 ~ Jan 2013
-  * Teaching intermediate Chinese and Advanced Chinese
+* Sep 2011 ~ Jan 2013
+	* Chinese Teacher, International Chinese Training Center, Beijing University of Posts and Telecommunications
+		* Teaching intermediate Chinese and Advanced Chinese
 
 
 Grant and Awards
@@ -45,7 +50,7 @@ Languages
 
 Computer Skills
 ======
-* Python, Java, R, Unix, Latex 
+* Python, Java, R, Unix, Latex, HTML
 
 
 

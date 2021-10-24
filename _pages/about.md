@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello! 
 
 I am He Zhou (周贺), Ph.D. candidate at the Department of Linguistics, Indiana University Bloomington. My major is Computational Linguistics and minor in Informatics. My research interests include Treebanking, Dependency Parsing, Universal Dependencies, Multilingual Dependency Parsing, Chinese Linguistics, Altaic Linguistics. 
 
