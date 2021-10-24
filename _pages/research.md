@@ -8,6 +8,9 @@ redirect_from:
   - "/research.html"
 ---
 
+{% include base_path %}
+
+
 This is a page not in the menu. You can use markdown in this page.
 
 Project 1
