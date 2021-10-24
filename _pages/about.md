@@ -15,7 +15,7 @@ Before joining IU, I earned my M.A. in Linguistics and Applied Linguistics with 
 
 Now I am working on my Ph.D. dissertation, in which I create a dependency treebank for Xibe (ISO 639: sjo, 锡伯语, ᠰᡞᠪᡝ ᡤᡞᠰᡠᠨ) under Universal Dependencies framework, and try to find solutions to parse it. At the same time, I work as a Graduate Assistant in the departmental lab. 
 
-Besides everything related with languages and linguistics, I have been an amateur accordionist since 8 years old. 
+Besides everything related with languages and linguistics, I have been an amateur accordionist with more than 20 years practice. 
 
 
 
