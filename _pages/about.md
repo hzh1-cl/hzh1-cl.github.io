@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Paragraph 1
+Hello! 
+
+I am He Zhou (周贺), Ph.D. candidate in Computational Linguistics at the Department of Linguistics, Indiana University Bloomington.
+
 
 
 Paragraph 2
@@ -29,5 +32,5 @@ Something
 
 
 
-**Title****
+****Title****
 
