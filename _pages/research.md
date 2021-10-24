@@ -9,10 +9,10 @@ author_profile: true
 
 
 
-Dependency Treebank and Parsing for the Xibe language, 2019 ~ current
+Dependency Treebank and Parsing for the Xibe language :fire:
 -----
 
-* Universal Dependencies Treebank for Xibe (XDT), 2019 Fall ~ current
+* Universal Dependencies Treebank for Xibe (XDT)
 	* We created the very first syntactically annotated treebank for the written Xibe language, which is one of the southern group of Tungusic languages. Sentences are collected from _General Introduction to Xibe Grammar_ by Setuken (锡伯语语法通论, 佘土肯，2009), _Cabcal News_ ([ᠴᠠᠯᠴᠠᠯ ᠰᡝᠷᡣᡞᠨ](https://en.wikipedia.org/wiki/Qapqal_News)), and Xibe textbook _ᠨᡞᠶᠠᠮᠠᡢᡤᠠ ᡤᡞᠰᡠᠨ_ (3-6). 
 	* The treebank contains 1,202 trees and will be released in [Universal Dependencies](https://universaldependencies.org/) soon.
 	* For more details about the treebank, please refer to our published [paper](https://aclanthology.org/2020.udw-1.23.pdf).
@@ -22,7 +22,7 @@ Dependency Treebank and Parsing for the Xibe language, 2019 ~ current
 	* Human annotation is both time-consuming and labor-intensive. We therefore look for methods to obtain more parsed trees with using the current small Xibe treebank and other UD treebanks in high-resource languages.
 	
 
-Constructing a Multi-genre Treebank of Translated and Non-translated Chinese, 2019 ~ current
+Constructing a Multi-genre Treebank of Translated and Non-translated Chinese :fire:
 -----
 * This project is a collaborated project between Indiana University and Renmin University of China. We aim to compare stylistic and syntactic features between original Chinese and translated Chinese using machine learning methods. Before we get a better understanding of translationese, we create a constituency treebank in multiple genres.
 * I am a member of the treebank group (Hai Hu, Yanting Li, Yina Ma, Zuoyu Tian, Yiwen Zhang).
@@ -50,6 +50,11 @@ Similar Language Classification
 * For more details, please refer to our system [paper](http://web.science.mq.edu.au/~smalmasi/vardial6/pdf/W19-1417.pdf).
 
 
+Chinese-English Rule-based Machine Translation System for Patent Texts
+-----
+* This project is sponsored by China Patent Information Center and is collaborated between CPIC and Institute of Chinese Information Processing of Beijing Normal University
+* My work focused on predicate identification in Chinese sentences, including identification and syntax-based reordering of verb phrases and _v+n_ compound nouns. And the work was advised by Prof. Yaohong Jin
+* For more details, please refer to [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6664632&casa_token=R55AgvuiX1oAAAAA:tpluD0pFSx9RSo9DCYzK6wX-KQ9cxmlTETGgFYUyPmMX5EK0rIt26xoZL5aawzihbEXZG1OZZQ&tag=1)
 
 
 	
