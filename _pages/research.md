@@ -9,21 +9,21 @@ author_profile: true
 
 
 
-Dependency Treebank and Parsing for the Xibe language 
+Dependency Treebank and Parsing for the Xibe language (in progress)
 -----
 
-* Universal Dependencies Treebank for Xibe (XDT) [:fire:]
+* Universal Dependencies Treebank for Xibe (XDT)
 	* We created the very first syntactically annotated treebank for the written Xibe language, which is one of the southern group of Tungusic languages. Sentences are collected from _General Introduction to Xibe Grammar_ by Setuken (锡伯语语法通论, 佘土肯，2009), _Cabcal News_ ([ᠴᠠᠯᠴᠠᠯ ᠰᡝᠷᡣᡞᠨ](https://en.wikipedia.org/wiki/Qapqal_News)), and Xibe textbook _ᠨᡞᠶᠠᠮᠠᡢᡤᠠ ᡤᡞᠰᡠᠨ_ (3-6). 
 	* The treebank contains 1,202 trees in total. We will release the first part of 810 trees in [Universal Dependencies](https://universaldependencies.org/) v2.9.
 	* This project is advised by Prof. Sandra Kübler and Prof. Francis Tyers.
 	* For more details about the treebank, please refer to our published [paper](https://aclanthology.org/2020.udw-1.23.pdf).
 	
 
-* Cross-lingual Dependency Parsing [:fire:]
+* Cross-lingual Dependency Parsing
 	* Human annotation is both time-consuming and labor-intensive. We therefore look for methods to obtain more parsed trees with using the current small Xibe treebank and other UD treebanks in high-resource languages.
 	
 
-Constructing a Multi-genre Treebank of Translated and Non-translated Chinese
+Constructing a Multi-genre Treebank of Translated and Non-translated Chinese (in progress)
 -----
 * This project is a collaborated project between Indiana University and Renmin University of China. We aim to compare stylistic and syntactic features between original Chinese and translated Chinese using machine learning methods. Before we get a better understanding of translationese, we create a constituency treebank in multiple genres.
 * I am a member of the treebank group (Hai Hu, Yanting Li, Yina Ma, Zuoyu Tian, Yiwen Zhang).
