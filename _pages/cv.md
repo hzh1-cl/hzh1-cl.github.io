@@ -12,19 +12,25 @@ redirect_from:
 Education
 ======
 * Aug 2017 ~ now
-	* Ph.D. Computational Linguistics, Informatics minor, Indiana University
+	* Ph.D. [Department of Linguistics](https://linguistics.indiana.edu/), Indiana University
+		* Major in _Computational Linguistics_
+		* Minor in _Informatics_
+		* Advisor: Professor Sandra Kübler
 * Sep 2010 ~ Jun 2013
-	* M.A. Linguistics and Applied Linguistics, Beijing Normal University
-	* with a concentration in _Chinese Information Processing_
+	* M.A. [Institute of Chinese Information Processing](http://icip.bnu.edu.cn/), Beijing Normal University
+		* major in _Linguistics and Applied Linguistics_ with a concentration in _Chinese Information Processing_
+		* Advisor: Professor Xiaojian Zhu
 * Sep 2006 ~ Jun 2010
-	* B.A. Chinese Linguistics, Ludong University
+	* B.A. [School of Chinese Language and Literature](http://www.chinese.ldu.edu.cn/), Ludong University
+		* major in _Chinese Linguistics_
+		* Advisor: Professor Yanhua Xu
 
 	
 
 Work experience
 ======
 * Jul 2013 ~ Jun 2016
-	* Program Officer at Division of Teachers, Confucius Institute Headquarters/Hanban (now Center for Language Education and Cooperation)
+	* Program Officer at Division of Teachers, Confucius Institute Headquarters/Hanban (now [_Center for Language Education and Cooperation_](http://www.chinese.cn/page/#/pcpage/mainpage))
 		* Chinese Language Teacher Management
 		* Overseas Chinese Language Teacher Training Program
 
