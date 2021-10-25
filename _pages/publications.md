@@ -8,6 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
+Publications
+-----
+
 * **He Zhou**, Sandra Kübler (2021). Delexicalized Cross-lingual Dependency Parsing for Xibe. In: _Recent Advances in Natural Language Processing_. pp 1626-1635.
 
 * Hu, Hai, **He Zhou**, Zuoyu Tian, Yiwen Zhang, Yina Ma, Yanting Li, Yixin Nie, Kyle Richardson (2021). Investigating Transfer Learning in Multilingual Pre-trained Language Models through Chinese Natural Language Inference. In: _Findings of ACL_. [paper](https://arxiv.org/pdf/2106.03983.pdf)
@@ -24,4 +27,11 @@ author_profile: true
 
 * **He Zhou**, Yun Zhu, Yaohong Jin. Identification of _v+n_ Compound Nouns in Chinese-English Machine Translation based on Rules in Patent Texts. In: _Proceedings of IEEE CCIS 2012_. pp 1485-1490. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6664632&casa_token=BSo0lcg64gwAAAAA:8nV7bEl6FJQwQ5Q6qLd19GweidvK-b6vJ9vNb5R8Sg5RFdqOxS9Gan62b80Sn72oi2648N6_Og)
 
+Poster
+-----
+* **He Zhou**, Zuoyu Tian, Tray Jagiella. Tone 4 Sandhi in Heze Chinese. In: _the 24th Annual Mid-Continental Phonetics and Phonolgy Conference_
+
+Talks
+-----
+* Delexicalized Cross-lingual Dependency Parsing for Xibe, at _the Central Kentucky Linguistics Conference_ (CKLiC). Apr 2021, Virtual.
 

@@ -62,4 +62,16 @@ Computer Skills
 ======
 * Python, Java, R, Unix, Latex, HTML
 * Workable knowledge in MySQL
+
+Service
+======
+* _Reviewer_
+	* 2021 RANLP
+	* 2019 SyntaxFest
+* _Secondary Reviewer_
+	* 2021 Linguistic Annotation Workshop (LAW)
+	* 2021 Sigmorphon
+	* 2020 TLT
+	
+	
   
