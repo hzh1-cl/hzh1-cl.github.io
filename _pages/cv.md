@@ -29,6 +29,10 @@ Education
 
 Work experience
 ======
+* Jun 2021 ~ Jul 2021
+	* Research Assistant, [IDAH](https://idah.indiana.edu/project-support/incubator/index.html) Summer Incubator
+
+
 * Jul 2013 ~ Jun 2016
 	* Program Officer at Division of Teachers, Confucius Institute Headquarters/Hanban (now [_Center for Language Education and Cooperation_](http://www.chinese.cn/page/#/pcpage/mainpage))
 		* Chinese Language Teacher Management
