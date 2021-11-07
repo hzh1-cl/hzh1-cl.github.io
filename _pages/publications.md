@@ -8,6 +8,13 @@ author_profile: true
 
 {% include base_path %}
 
+Language Resources
+-----
+* Xibe Universal Dependency Treebank--XDT
+ - Release since UD Version 2.9
+ - The first release contains 810 trees, 15,282 tokens
+ - [Github](https://github.com/UniversalDependencies/UD_Xibe-XDT/)
+
 Publications
 -----
 

@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am Zhou(周) He(贺), Ph.D. candidate at the Department of Linguistics, Indiana University. My major is Computational Linguistics and minor in Informatics. My research interests include Treebanking, Dependency Parsing, Universal Dependencies, Cross-lingual Dependency Parsing, Language Typology, Chinese Linguistics, Altaic Linguistics. 
+I am Zhou(周) He(贺), Ph.D. candidate at the Department of Linguistics, Indiana University. My major is Computational Linguistics and minor in Informatics. My research interests include Dependency Parsing, Universal Dependencies, Cross-lingual Dependency Parsing, Low-resource Language NLP, Syntactic Treebank Annotation. 
 
 Before joining IU, I earned my M.A. in Linguistics and Applied Linguistics with a concentration in Chinese Information Processing from Beijing Normal University, and my B.A. in Chinese Linguistics from Ludong University. 
 
