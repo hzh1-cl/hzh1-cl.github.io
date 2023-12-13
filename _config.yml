@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "He Zhou"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Candidate in Computational Linguistics"
+  bio              : "PhD in Computational Linguistics"
   location         : "Bloomington, IN, USA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "hzh1@iu.edu"
+  email            : "hzh1@iu.edu, he.zhou@polyu.edu.hk"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

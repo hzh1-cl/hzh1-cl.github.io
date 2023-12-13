@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello!"
+title: "He ZHOU"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,16 +9,13 @@ redirect_from:
 ---
 
 
-I am Zhou(周) He(贺), Ph.D. candidate at the Department of Linguistics, Indiana University. My major is Computational Linguistics and minor in Informatics. My research interests include Dependency Parsing, Universal Dependencies, Cross-lingual Dependency Parsing, Low-resource Language NLP, Syntactic Treebank Annotation. 
+I am now working as a Postdoctoral Research Fellow at the Department of Chinese and Bilingual Studies, _Hong Kong Polytechnic University_. Before joining PolyU, I received my PhD degree in Computational Linguistics from _Indiana University_. My research interests include Language Resource Development, Morphological and Syntactic Analysis for Low-Resource Languages (with a special interest in minority languages in China). I also have research experiences in Natural Language Inference and using ML/DL techniques to differentiate similar languages. Now I am working on Interpreting Chinese Noun Compounds. 
 
-Before joining IU, I earned my M.A. in Linguistics and Applied Linguistics with a concentration in Chinese Information Processing from Beijing Normal University, and my B.A. in Chinese Linguistics from Ludong University. 
+I earned my MA in Linguistics and Applied Linguistics with a concentration in Chinese Information Processing from _Beijing Normal University_, and BA in Chinese Linguistics from _Ludong University_. 
 
-Now I am working on my Ph.D. dissertation, in which I create a dependency treebank for Xibe (ISO 639: sjo, 锡伯语, ᠰᡞᠪᡝ ᡤᡞᠰᡠᠨ) under Universal Dependencies framework, and try to find solutions to parse it. At the same time, I work as a Graduate Assistant in the departmental lab. 
-
-I was born in [Heze](https://en.wikipedia.org/wiki/Heze) and live in [Jining](https://en.wikipedia.org/wiki/Jining), which are both small cities with more than 8 million inhabitants in western Shandong province of China. I am proud of living in cities that are rich in cultural deposits. Heze is hometown to the peony flowers and also famous for martial arts, local opera, and traditional painting and calligraphy. Jining is hometown of Confucius and Mencius.
+Meanwhile, I am looking for a permanant teaching position.
 
 
-Besides everything related with languages and linguistics, I have been an amateur accordionist with more than 20 years experience. 
 
 
 

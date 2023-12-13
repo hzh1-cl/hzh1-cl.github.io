@@ -16,3 +16,9 @@ author_profile: true
 
 * Chinese Tutor, _Chinese Flagship Program_, Indiana University, 2019 Fall
 	* Lead conversation hour with elementary level students.
+
+* Guest Lecture, _Introduction to Dependency Grammar_, Nov 2022
+	* School of Foreign Languages, Shanghai Jiao Tong University
+
+* Guest Lecture, _Syntax and Parsing_, Sep 2023
+	* Chinese and Bilingual Studies, Hong Kong Polytechnic University

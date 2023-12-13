@@ -17,10 +17,11 @@ Language Resources
 
 Publications
 -----
+* **He Zhou**, Daniel Dakota, Sandra Kübler. Cross-Lingual Dependency Parsing for a Language with a Unique Script. In: Journal of Natural Language Engineering _with a special issue for_ NLP for Low-Resource Languages. (to appear)
 
 * **He Zhou**, Sandra Kübler (2021). Delexicalized Cross-lingual Dependency Parsing for Xibe. In: _Recent Advances in Natural Language Processing_. pp 1626-1635.
 
-* Hu, Hai, **He Zhou**, Zuoyu Tian, Yiwen Zhang, Yina Ma, Yanting Li, Yixin Nie, Kyle Richardson (2021). Investigating Transfer Learning in Multilingual Pre-trained Language Models through Chinese Natural Language Inference. In: _Findings of ACL_. [paper](https://arxiv.org/pdf/2106.03983.pdf)
+* Hai Hu, **He Zhou**, Zuoyu Tian, Yiwen Zhang, Yina Ma, Yanting Li, Yixin Nie, Kyle Richardson (2021). Investigating Transfer Learning in Multilingual Pre-trained Language Models through Chinese Natural Language Inference. In: _Findings of ACL_. [paper](https://arxiv.org/pdf/2106.03983.pdf)
 
 * **He Zhou**, Juyeon Chung, Sandra Kübler, Francis Tyers. Universal Dependency Treebank for Xibe. In: _Proceedings of the Fourth Workshop on Universal Dependencies (UDW 2020)_. PP 205-215. [paper](https://aclanthology.org/2020.udw-1.23.pdf)
  

@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Aug 2017 ~ now
+* Aug 2017 ~ Sep 2023
 	* Ph.D. [Department of Linguistics](https://linguistics.indiana.edu/), Indiana University
 		* Major in _Computational Linguistics_
 		* Minor in _Informatics_
@@ -29,9 +29,11 @@ Education
 
 Work experience
 ======
+* Nov 2023 ~ Now
+	* Postdoctoral Research fellow, Department of Chinese and Bilingual Studies, Hong Kong Polytechnic University
+
 * Jun 2021 ~ Jul 2021
 	* Research Assistant, [IDAH](https://idah.indiana.edu/project-support/incubator/index.html) Summer Incubator
-
 
 * Jul 2013 ~ Jun 2016
 	* Program Officer at Division of Teachers, Confucius Institute Headquarters/Hanban (now [_Center for Language Education and Cooperation_](http://www.chinese.cn/page/#/pcpage/mainpage))
@@ -45,7 +47,9 @@ Work experience
 
 Grant and Awards
 ======
-* Chinese Government Scholarship (tuition and stipends)
+* Dissertation Complete Fellowship
+	* Mar 2022, College of Arts and Sciences, Indiana University
+* Chinese Government Scholarship
 	* Aug 2018 ~ Aug 2021, China Scholarship Council
 * Householder Research Funds
 	* Feb 2021, Department of Linguistics, Indiana University
@@ -59,13 +63,14 @@ Languages
 * Korean (Advanced, TOPIK-5)
 * Arabic (Advanced)
 * Manchu, Xibe (Advanced Reading Proficiency)
-* French (A2), German (A2), Thai (Beginner)
+* French (A2), German (A2)
 
 
 Computer Skills
 ======
 * Python, Java, R, Unix, Latex, HTML
-* Workable knowledge in MySQL
+* Language Modeling
+* Dependency Parsing
 
 Service
 ======

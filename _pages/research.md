@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-
+Chinese Noun Compound Interpretation _in progress_
+---
+To be updated
 
 Dependency Treebank and Parsing for the Xibe language _in progress_
 -----
