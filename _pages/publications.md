@@ -17,7 +17,15 @@ Language Resources
 
 Publications
 -----
-* **He Zhou**, Daniel Dakota, Sandra Kübler. Cross-Lingual Dependency Parsing for a Language with a Unique Script. In: Journal of Natural Language Engineering _with a special issue for_ NLP for Low-Resource Languages. (to appear)
+* **He Zhou**, Daniel Dakota, Sandra Kübler. Cross-Lingual Dependency Parsing for a Language with a Unique Script. In: Journal of Natural Language Engineering _with a special issue for_ NLP for Low-Resource Languages. (To appear)
+
+* **He Zhou**, Zuoyu Tian, Trey Jagiella. Tone 4 Sandhi in Heze Chinese. In: IULC Working Papers, vol.24, no.1, 2024.
+
+* **周贺**. 基于通用依存句法的锡伯语句法树库构建研究. 中国计算语言学大会, CCL 2024.
+
+* **周贺**. 锡伯语动词形态自动分析研究. 第十届全国少数民族自然语言处理青年论坛, MNLP 2024.
+
+* **He Zhou**, Yu-yin Hsu, and Emmanuele Chersoni. Evaluating Chinese Noun Compound Interpretation in Natural Language Inference. In: Chinese Lexical Semantics: 25th Workshop, CLSW 2024, Xiamen, China. 
 
 * **He Zhou**, Sandra Kübler (2021). Delexicalized Cross-lingual Dependency Parsing for Xibe. In: _Recent Advances in Natural Language Processing_. pp 1626-1635.
 
