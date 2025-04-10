@@ -27,7 +27,7 @@ Education
 
 	
 
-Work experience
+Work Experiences
 ======
 * Nov 2023 ~ Now
 	* Postdoctoral Research fellow, Department of Chinese and Bilingual Studies, Hong Kong Polytechnic University
@@ -62,15 +62,18 @@ Languages
 * English (Advanced)
 * Korean (Advanced, TOPIK-5)
 * Arabic (Advanced)
-* Manchu, Xibe (Advanced Reading Proficiency)
+* Xibe (Advanced Reading and Writing Proficiency, Spoken Xibe beginner)
+* Manchu (Advanced Reading Proficiency)
+* Traditional Mongolian (Beginner)
 * French (A2), German (A2)
+
 
 
 Computer Skills
 ======
 * Python, Java, R, Unix, Latex, HTML
-* Language Modeling
-* Dependency Parsing
+* Language Modeling and Large Language Models
+* Deep Neural Network-based Dependency Parsing
 
 Service
 ======

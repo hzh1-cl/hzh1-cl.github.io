@@ -9,12 +9,23 @@ redirect_from:
 ---
 
 
-I am now working as a Postdoctoral Research Fellow at the Department of Chinese and Bilingual Studies, _Hong Kong Polytechnic University_. Before joining PolyU, I received my PhD degree in Computational Linguistics from _Indiana University_. My research interests include Language Resource Development, Morphological and Syntactic Analysis for Low-Resource Languages (with a special interest in minority languages in China). I also have research experiences in Natural Language Inference and using ML/DL techniques to differentiate similar languages. Now I am working on Interpreting Chinese Noun Compounds. 
+- I am now working as a _Postdoctoral Research Fellow_ at the Department of Chinese and Bilingual Studies, _The Hong Kong Polytechnic University_. 
 
-I earned my MA in Linguistics and Applied Linguistics with a concentration in Chinese Information Processing from _Beijing Normal University_, and BA in Chinese Linguistics from _Ludong University_. 
+- Before joining PolyU, I received my PhD degree in Computational Linguistics from _Indiana University_. 
 
-Meanwhile, I am looking for a permanant teaching position.
+- My research interests include:
+  - LLMs-based studies on Chinese Lexical Semantics
+  - LLMs-based studies on Syntactic Parsing
+  - Corpus-based Studies: Language Resource Creation and Annotation
+  - Fundamental computational linguistics tasks: Morphological and Syntactic Analysis (with a special interest in Chinese minority languages)
+  - Digital Humanities: Implementing computational linguistic techniques in humanities
 
+- Hobbies besides research:
+  - Accordion (traditional keyboard accordion, very eger to play bayan as well)
+  - Citywalk
+  - Workout
+  - Languages _Jetzt forsetze ich die deutsche sprache lernen._
+  - _maybe more ..._
 
 
 

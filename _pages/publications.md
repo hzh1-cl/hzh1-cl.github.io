@@ -15,11 +15,21 @@ Language Resources
  - The first release contains 810 trees, 15,282 tokens
  - [Github](https://github.com/UniversalDependencies/UD_Xibe-XDT/)
 
+* _Hong Gao Liang_ Xibe-Chinese Parallel Corpus
+
 Publications
 -----
-* **He Zhou**, Daniel Dakota, Sandra Kübler. Cross-Lingual Dependency Parsing for a Language with a Unique Script. In: Journal of Natural Language Engineering _with a special issue for_ NLP for Low-Resource Languages. (To appear)
+* **He Zhou**, Daniel Dakota, Sandra Kübler. Cross-Lingual Dependency Parsing for a Language with a Unique Script. In: Natural Language Processing _with a special issue for_ NLP for Low-Resource Languages, vol. 31(2), 2025. pp. 277-305.
 
 * **He Zhou**, Zuoyu Tian, Trey Jagiella. Tone 4 Sandhi in Heze Chinese. In: IULC Working Papers, vol.24, no.1, 2024.
+
+* **周贺**, 许又尹. 基于语料库的满语和锡伯语中功能词ningge对比研究. 民族语文, 2025, 在审.
+
+* **周贺**. 锡伯语动词形态自动分析研究. 辽宁民族研究, 2025, 在审.
+
+* **He Zhou**, Emmanuele Chersoni, Yu-yin Hsu. Branching Out: Exploration of Chinese Dependency Parsing with Fine-tuned Large Language Models. In: _The 29th Conference on Computational Natural Language Processing (CoNLL, 2025)_, Under Review.
+
+* Feier Gao, Chun Hau Ngai, **He Zhou**. The iconic and metaphorical representations of lexical tones: Evidence from Hong Kong Cantonese. In: _The 3rd International Conference on Tone and Intonation, TAI 2025_.
 
 * **周贺**. 基于通用依存句法的锡伯语句法树库构建研究. 中国计算语言学大会, CCL 2024.
 
