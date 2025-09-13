@@ -7,13 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-Large Language Models-based Studies on Chinese Noun Compound Interpretation _in progress_
+Semantic Relation Representations of Chinese Noun Compounds in Transformer-based Language Models _in progress_
 ---
-* TBA
+* As a member in _Modeling Generalized Event Knowledge for Noun Compound Interpretation and Prediction with Vector Spaces and Transformers_ (GRF, PolyU15612222)
+* A Chinese Noun-Noun Compound Dataset with Semantic Relation annotation
+* Investigation semantic relation encodings in Transformer-based language models
 
-Dependency Treebank and Parsing for the Xibe language _in progress_
+A Chinese-Xibe Novel Parallel Corpus _in progress_
+---
+* Having completed OCR, preprocessing and bilingual alignment for _Red Sorghum_, a total of 1.7 million Xibe tokens.
+* Remaining materials are under processing.
+
+Dependency Treebank and Parsing for the Xibe language
 -----
-
 * Universal Dependencies Treebank for Xibe (XDT)
 	* We created the very first syntactically annotated treebank for the written Xibe language, which is one of the southern group of Tungusic languages. Sentences are collected from _General Introduction to Xibe Grammar_ by Setuken (锡伯语语法通论, 佘土肯，2009), _Cabcal News_ ([ᠴᠠᠯᠴᠠᠯ ᠰᡝᠷᡣᡞᠨ](https://en.wikipedia.org/wiki/Qapqal_News)), and Xibe textbook _ᠨᡞᠶᠠᠮᠠᡢᡤᠠ ᡤᡞᠰᡠᠨ_ (3-6). 
 	* The treebank contains 1,202 trees in total. We will release the first part of 810 trees in [Universal Dependencies](https://universaldependencies.org/) v2.9.
@@ -25,7 +31,7 @@ Dependency Treebank and Parsing for the Xibe language _in progress_
 	* Human annotation is both time-consuming and labor-intensive. We therefore look for methods to obtain more parsed trees with using the current small Xibe treebank and other UD treebanks in high-resource languages.
 	
 
-Constructing a Multi-genre Treebank of Translated and Non-translated Chinese _in progress_
+Constructing a Multi-genre Treebank of Translated and Non-translated Chinese
 -----
 * This project is a collaborated project between Indiana University and Renmin University of China. We aim to compare stylistic and syntactic features between original Chinese and translated Chinese using machine learning methods. Before we get a better understanding of translationese, we create a constituency treebank in multiple genres.
 * I am a member of the treebank group (Hai Hu, Yanting Li, Yina Ma, Zuoyu Tian, Yiwen Zhang).
