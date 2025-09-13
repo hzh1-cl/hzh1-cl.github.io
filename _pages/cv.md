@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+-----
 * Aug 2017 ~ Sep 2023
 	* Ph.D. [Department of Linguistics](https://linguistics.indiana.edu/), Indiana University
 		* Major in _Computational Linguistics_
@@ -28,7 +28,7 @@ Education
 	
 
 Work Experiences
-======
+-----
 * Nov 2023 ~ Now
 	* Postdoctoral Research fellow, Department of Language Science and Technology, Hong Kong Polytechnic University
 
@@ -46,7 +46,7 @@ Work Experiences
 
 
 Grant and Awards
-======
+-----
 * Outstanding Achievement Award
 	* @The 10th National Symposium on Natural Language Processing of Minority Languages in China
    	* July, 2024. Professional Committee of Minority Language Information of Chinese Information Society
@@ -62,7 +62,7 @@ Grant and Awards
 	* Confucius Institute Headquarters/HANBAN
   
 Languages
-======
+-----
 * Mandarin Chinese (native)
 * English (Fluent)
 * Korean (TOPIK-5, Advanced)
@@ -74,16 +74,16 @@ Languages
 
 
 Computer Skills
-======
+-----
 * Python, Java, R, Unix, Latex, HTML
 * Language Modeling and Large Language Models (prompting, fine-tuning)
 * Deep Neural Network-based Dependency Parsing
 
-Service
-======
+Academic Service
+-----
 * _Conference Reviewer_
-	* Computational Linguistics: COLING, EMNLP, PACLIC, LREC, *SEM, RANLP, TLT, SyntaxFest, FieldMatters, LAW, SIGMORPHON
- 	* Chinese Linguistics: NACCL34
+	* _Computational Linguistics_: COLING, EMNLP, PACLIC, LREC, *SEM, RANLP, TLT, SyntaxFest, FieldMatters, LAW, SIGMORPHON
+	* _Chinese Linguistics_: NACCL34
 	
 	
   
