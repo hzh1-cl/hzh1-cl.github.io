@@ -15,27 +15,32 @@ Language Resources
  - The first release contains 810 trees, 15,282 tokens
  - [Github](https://github.com/UniversalDependencies/UD_Xibe-XDT/)
 
-* _Hong Gao Liang_ Xibe-Chinese Parallel Corpus
+* A Xibe-Chinese Novel Parallel Corpus _in progress_
 
-Publications
+* A Chinese Noun-Noun Compound Dataset with Semantic Relation Annotation _in progress_
+
+Journal
 -----
 * **He Zhou**, Daniel Dakota, Sandra Kübler. Cross-Lingual Dependency Parsing for a Language with a Unique Script. In: Natural Language Processing _with a special issue for_ NLP for Low-Resource Languages, vol. 31(2), 2025. pp. 277-305.
 
 * **He Zhou**, Zuoyu Tian, Trey Jagiella. Tone 4 Sandhi in Heze Chinese. In: IULC Working Papers, vol.24, no.1, 2024.
 
-* **周贺**, 许又尹. 基于语料库的满语和锡伯语中功能词ningge对比研究. 民族语文, 2025, 在审.
+* Hongzheng Li, **He Zhou**, Yaohong Jin. A Method for Identifying _v+n_ Compound Nouns in Patent Machine Translation. In: _Applied Mechanics and Materials_ Vols. 513-517. [paper](https://www.scientific.net/AMM.513-517.4617)
 
-* **周贺**. 锡伯语动词形态自动分析研究. 辽宁民族研究, 2025, 在审.
 
-* **He Zhou**, Emmanuele Chersoni, Yu-yin Hsu. Branching Out: Exploration of Chinese Dependency Parsing with Fine-tuned Large Language Models. In: _The 29th Conference on Computational Natural Language Processing (CoNLL, 2025)_, Under Review.
+Conference
+-----
+* **He Zhou**, Emmanuele Chersoni, Yu-Yin Hsu. Branching Out: Exploration of Chinese Dependency Parsing with Fine-tuned Large Language Models. In: _The 15th International Conference Recent Advances in Natural Language Processing (RANLP)_, September 8-10 2025, Varna, Bulgaria.
 
-* Feier Gao, Chun Hau Ngai, **He Zhou**. The iconic and metaphorical representations of lexical tones: Evidence from Hong Kong Cantonese. In: _The 3rd International Conference on Tone and Intonation, TAI 2025_.
+* Feier Gao, Chun-Hau Ngai, **He Zhou**. Spatially Upward and Emotionally Uncertain: A Pilot Study on Mental Representations of Lexicon Tones. In: _Proceedings of the Annual Meeting of the Cognitive Science Society_, August 2025, San Francisco, USA. 
+
+* Feier Gao, Chun Hau Ngai, **He Zhou**. The Iconic and Metaphorical Representations of Lexical Tones: Evidence from Hong Kong Cantonese. In: _The 3rd International Conference on Tone and Intonation, TAI 2025_. May 16-18, 2025. Herrsching, Germany.
 
 * **周贺**. 基于通用依存句法的锡伯语句法树库构建研究. 中国计算语言学大会, CCL 2024.
 
 * **周贺**. 锡伯语动词形态自动分析研究. 第十届全国少数民族自然语言处理青年论坛, MNLP 2024.
 
-* **He Zhou**, Yu-yin Hsu, and Emmanuele Chersoni. Evaluating Chinese Noun Compound Interpretation in Natural Language Inference. In: Chinese Lexical Semantics: 25th Workshop, CLSW 2024, Xiamen, China. 
+* **He Zhou**, Yu-yin Hsu, and Emmanuele Chersoni. Evaluating Chinese Noun Compound Interpretation in Natural Language Inference. In: Chinese Lexical Semantics: 25th Workshop, CLSW 2024, Xiamen, China. (Oral Presentation)
 
 * **He Zhou**, Sandra Kübler (2021). Delexicalized Cross-lingual Dependency Parsing for Xibe. In: _Recent Advances in Natural Language Processing_. pp 1626-1635.
 
@@ -49,8 +54,6 @@ Publications
 
 * Hai Hu, Wen Li, **He Zhou**, Zuoyu Tian, Yiwen Zhang, Liang Zou. Ensemble Methods to Distinguish Mainland and Taiwan Chinese. In: _Proceedings of VarDial, 2019_. pp 165-171. [paper](https://aclanthology.org/W19-1417.pdf)
 
-* Hongzheng Li, **He Zhou**, Yaohong Jin. A Method for Identifying _v+n_ Compound Nouns in Patent Machine Translation. In: _Applied Mechanics and Materials_ Vols. 513-517. [paper](https://www.scientific.net/AMM.513-517.4617)
-
 * **He Zhou**, Yun Zhu, Yaohong Jin. Identification of _v+n_ Compound Nouns in Chinese-English Machine Translation based on Rules in Patent Texts. In: _Proceedings of IEEE CCIS 2012_. pp 1485-1490. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6664632&casa_token=BSo0lcg64gwAAAAA:8nV7bEl6FJQwQ5Q6qLd19GweidvK-b6vJ9vNb5R8Sg5RFdqOxS9Gan62b80Sn72oi2648N6_Og)
 
 Poster
@@ -59,5 +62,6 @@ Poster
 
 Talks
 -----
-* Delexicalized Cross-lingual Dependency Parsing for Xibe, at _the Central Kentucky Linguistics Conference_ (CKLiC). Apr 2021, Virtual.
+* Investigating the Representation of Semantic Relations of Chinese Noun-Noun Compound in Transformer-based Language Models. In: _The 34th Joint Workshop on Linguistics and Language Processing_, September 5-7, 2025. Kobe, Japan.
+* Delexicalized Cross-lingual Dependency Parsing for Xibe, at _the Central Kentucky Linguistics Conference_ (CKLiC). Apr 2021, Kentucky, USA. (Virtual)
 
