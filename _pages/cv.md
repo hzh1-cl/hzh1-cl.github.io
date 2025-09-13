@@ -30,7 +30,7 @@ Education
 Work Experiences
 ======
 * Nov 2023 ~ Now
-	* Postdoctoral Research fellow, Department of Chinese and Bilingual Studies, Hong Kong Polytechnic University
+	* Postdoctoral Research fellow, Department of Language Science and Technology, Hong Kong Polytechnic University
 
 * Jun 2021 ~ Jul 2021
 	* Research Assistant, [IDAH](https://idah.indiana.edu/project-support/incubator/index.html) Summer Incubator
@@ -47,6 +47,9 @@ Work Experiences
 
 Grant and Awards
 ======
+* Outstanding Achievement Award
+	* @The 10th National Symposium on Natural Language Processing of Minority Languages in China
+   	* July, 2024. Professional Committee of Minority Language Information of Chinese Information Society
 * Dissertation Complete Fellowship
 	* Mar 2022, College of Arts and Sciences, Indiana University
 * Chinese Government Scholarship
@@ -55,35 +58,32 @@ Grant and Awards
 	* Feb 2021, Department of Linguistics, Indiana University
 * Householder Best Paper Award
 	* Apr 2020, Department of Linguistics, Indiana University
+* Annual Excellence Staff, 2015
+	* Confucius Institute Headquarters/HANBAN
   
 Languages
 ======
 * Mandarin Chinese (native)
-* English (Advanced)
-* Korean (Advanced, TOPIK-5)
-* Arabic (Advanced)
+* English (Fluent)
+* Korean (TOPIK-5, Advanced)
+* Arabic (ACTFL, Advanced-low)
 * Xibe (Advanced Reading and Writing Proficiency, Spoken Xibe beginner)
 * Manchu (Advanced Reading Proficiency)
-* Traditional Mongolian (Beginner)
+* Traditional and Cyrillic Mongolian (Beginner)
 * French (A2), German (A2)
-
 
 
 Computer Skills
 ======
 * Python, Java, R, Unix, Latex, HTML
-* Language Modeling and Large Language Models
+* Language Modeling and Large Language Models (prompting, fine-tuning)
 * Deep Neural Network-based Dependency Parsing
 
 Service
 ======
-* _Reviewer_
-	* 2021 RANLP
-	* 2019 SyntaxFest
-* _Secondary Reviewer_
-	* 2021 Linguistic Annotation Workshop (LAW)
-	* 2021 Sigmorphon
-	* 2020 TLT
+* _Conference Reviewer_
+	* Computational Linguistics: COLING, EMNLP, PACLIC, LREC, *SEM, RANLP, TLT, SyntaxFest, FieldMatters, LAW, SIGMORPHON
+ 	* Chinese Linguistics: NACCL34
 	
 	
   
