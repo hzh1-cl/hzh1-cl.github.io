@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-* Teaching Assistant, _Computational Linguistics (FH-6051)
+* Teaching Assistant, _Computational Linguistics_ (FH-6051), Sep-Dec 2025
 	* Department of Language Science and Technology, The Hong Kong Polytechnic University
 
 * Guest Lecture, _Representation of Grammar_, Sep 2024
