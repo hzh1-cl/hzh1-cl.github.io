@@ -20,7 +20,7 @@ redirect_from:
   - Digital Humanities: Implementing computational linguistic techniques in humanities
 
 - Hobbies besides research:
-  - Accordion (traditional keyboard accordion, very eger to play bayan as well)
+  - Accordion (I am familiar with piano accordion, but very eager to play bayan☺️)
   - Citywalk
   - Workout
   - Languages
