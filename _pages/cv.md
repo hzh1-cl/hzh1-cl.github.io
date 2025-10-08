@@ -52,8 +52,9 @@ Grant and Awards
    	* July, 2024. Professional Committee of Minority Language Information of Chinese Information Society
 * Dissertation Complete Fellowship
 	* Mar 2022, College of Arts and Sciences, Indiana University
+<!--
 * Chinese Government Scholarship
-	* Aug 2018 ~ Aug 2021, China Scholarship Council
+	* Aug 2018 ~ Aug 2021, China Scholarship Council -->
 * Householder Research Funds
 	* Feb 2021, Department of Linguistics, Indiana University
 * Householder Best Paper Award
