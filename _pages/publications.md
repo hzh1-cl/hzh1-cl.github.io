@@ -41,7 +41,7 @@ Conference Papers
 * **He Zhou**, Emmanuele Chersoni, Yu-Yin Hsu. Branching Out: Exploration of Chinese Dependency Parsing with Fine-tuned Large Language Models. In: _The 15th International Conference Recent Advances in Natural Language Processing (RANLP)_, September 8-10 2025. Varna, Bulgaria. (Paper+Oral Presentation)
 
 * Qun Zhao, **He Zhou**, Yu-Yin Hsu, Chu-Ren Huang. Development of a CFL Learning System Based on Prompt Engineering and Fine-tuning for LLMs: A Focus on Grammatical Error Correction. In: _第八届汉语中介语语料库建设与应用国际学术研讨会_. July 4-7. Urumqi, Xinjiang.
-* 
+  
 * Feier Gao, Chun-Hau Ngai, **He Zhou**. Spatially Upward and Emotionally Uncertain: A Pilot Study on Mental Representations of Lexicon Tones. In: _Proceedings of the Annual Meeting of the Cognitive Science Society_, August 2025, San Francisco, USA. (CCF-B)
 
 * Feier Gao, Chun Hau Ngai, **He Zhou**. The Iconic and Metaphorical Representations of Lexical Tones: Evidence from Hong Kong Cantonese. In: _The 3rd International Conference on Tone and Intonation, TAI 2025_. May 16-18, 2025. Herrsching, Germany.
