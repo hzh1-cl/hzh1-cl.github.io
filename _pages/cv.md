@@ -32,7 +32,7 @@ Work Experiences
 * Dec 2025 ~ Now
 	* Research Associate, Department of Language Science and Technology, The Hong Kong Polytechnic University
 
-* Nov 2023 ~ Now
+* Nov 2023 ~ Nov 2025
 	* Postdoctoral Research fellow, Department of Language Science and Technology, The Hong Kong Polytechnic University
 
 * Jun 2021 ~ Jul 2021
