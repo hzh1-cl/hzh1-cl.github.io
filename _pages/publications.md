@@ -27,9 +27,17 @@ Journal
 
 * Hongzheng Li, **He Zhou**, Yaohong Jin. A Method for Identifying _v+n_ Compound Nouns in Patent Machine Translation. In: _Applied Mechanics and Materials_ Vols. 513-517. [paper](https://www.scientific.net/AMM.513-517.4617)
 
-
-Conference
+Book Chapter
 -----
+* Chien-Jer Charles Lin, **He Zhou**, Hai Hu. Thinking Differently in Chinese and English: The Role of Grammar in Translational Thinking. In: _Thinking in Chinese and English: Multidisciplinary Approaches to the Whorfian Question_. Ed. by David Moser. Singapore: Springer Nature Singapore, pp.99-111. ISBN:978-981-95-1165-5. <doi:10.1007/978-981-95-1165-5_5>.
+
+
+Conference Papers
+-----
+* **He Zhou**, Emmanuele Chersoni, Yu-Yin Hsu. Semantic Norms and Structural Relations in Chinese Semantic Composition: A Dataset and Analysis. In: _Proceedings of the 15th Workshop on Cognitive Modeling and Computational Linguistics_, colocated with LREC 2026. (Paper+Oral Presentation)
+
+* Le Qiu, Emmanuele Chersoni, **He Zhou**, Yu-Yin Hsu. Large Language Models Put to the Test on Chinese Noun Compounds: Experiments on Natural Language Inference and Compound Semantics. In: _Proceedings of the 22nd Workshop on Multiword Expressions (MWE 2026)_. colocated with EACL. Rabat, Morocco. (Paper+Poster)
+
 * **He Zhou**, Emmanuele Chersoni, Yu-Yin Hsu. Branching Out: Exploration of Chinese Dependency Parsing with Fine-tuned Large Language Models. In: _The 15th International Conference Recent Advances in Natural Language Processing (RANLP)_, September 8-10 2025. Varna, Bulgaria. (Paper+Oral Presentation)
 
 * Qun Zhao, **He Zhou**, Yu-Yin Hsu, Chu-Ren Huang. Development of a CFL Learning System Based on Prompt Engineering and Fine-tuning for LLMs: A Focus on Grammatical Error Correction. In: _第八届汉语中介语语料库建设与应用国际学术研讨会_. July 4-7. Urumqi, Xinjiang.
