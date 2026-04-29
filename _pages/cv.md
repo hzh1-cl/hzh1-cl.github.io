@@ -29,8 +29,11 @@ Education
 
 Work Experiences
 -----
+* Dec 2025 ~ Now
+	* Research Associate, Department of Language Science and Technology, The Hong Kong Polytechnic University
+
 * Nov 2023 ~ Now
-	* Postdoctoral Research fellow, Department of Language Science and Technology, Hong Kong Polytechnic University
+	* Postdoctoral Research fellow, Department of Language Science and Technology, The Hong Kong Polytechnic University
 
 * Jun 2021 ~ Jul 2021
 	* Research Assistant, [IDAH](https://idah.indiana.edu/project-support/incubator/index.html) Summer Incubator
@@ -52,9 +55,7 @@ Grant and Awards
    	* July, 2024. Professional Committee of Minority Language Information of Chinese Information Society
 * Dissertation Complete Fellowship
 	* Mar 2022, College of Arts and Sciences, Indiana University
-<!--
-* Chinese Government Scholarship
-	* Aug 2018 ~ Aug 2021, China Scholarship Council -->
+<!--* Chinese Government Scholarship* Aug 2018 ~ Aug 2021, China Scholarship Council -->
 * Householder Research Funds
 	* Feb 2021, Department of Linguistics, Indiana University
 * Householder Best Paper Award
