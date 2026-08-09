@@ -23,6 +23,8 @@ Journal
 -----
 * **He Zhou**, Daniel Dakota, Sandra Kübler. Cross-Lingual Dependency Parsing for a Language with a Unique Script. In: Natural Language Processing _with a special issue for_ NLP for Low-Resource Languages, vol. 31(2), 2025. pp. 277-305.
 
+* Feier Gao, Chun-Hau Ngai, **He Zhou**. (2026) The Falling Tone that Rolls Down the Hill and Gets Slumped: Vertical Mapping of Lexical Tones with Motion and Valence. In: _Cognitive Science_, 50(8). [Read Paper Here](https://doi.org/10.1111/cogs.70253).
+
 * **He Zhou**, Zuoyu Tian, Trey Jagiella. Tone 4 Sandhi in Heze Chinese. In: IULC Working Papers, vol.24, no.1, 2024.
 
 * Hongzheng Li, **He Zhou**, Yaohong Jin. A Method for Identifying _v+n_ Compound Nouns in Patent Machine Translation. In: _Applied Mechanics and Materials_ Vols. 513-517. [paper](https://www.scientific.net/AMM.513-517.4617)
