@@ -29,7 +29,10 @@ Education
 
 Work Experiences
 -----
-* Dec 2025 ~ Now
+* Sep 2026 to present
+	* Assistant Professor, Department of Chinese Language and Literature, Hong Kong Shue Yan University
+  
+* Dec 2025 ~ Jul 2026
 	* Research Associate, Department of Language Science and Technology, The Hong Kong Polytechnic University
 
 * Nov 2023 ~ Nov 2025
