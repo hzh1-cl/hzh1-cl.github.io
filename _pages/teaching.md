@@ -8,8 +8,8 @@ author_profile: true
 
 {% include base_path %}
 * Lecturer, Fall 2026.
-	* 數碼人文及研究方法 （Digital Humanities and Research Methods，in Chinese)
- 	* 大一國文 （Freshman Chinese， in Chinese)
+	* 數碼人文及研究方法（Digital Humanities and Research Methods, in Chinese)
+ 	* 大一國文（Freshman Chinese, in Chinese)
     * Introduction to Chinese Culture (in English)
 
 ----------
