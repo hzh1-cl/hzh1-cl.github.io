@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+- I am an _Assistant Professor_ at the Department of Chinese Language and Literature (CHI), _Hong Kong Shue Yan University_.
 
-- I am now working as a _Postdoctoral Research Fellow_ at the Department of Language Science and Technology (LST), _The Hong Kong Polytechnic University_. 
-
-- Before joining PolyU, I received my PhD degree in Computational Linguistics from _Indiana University_. 
+- Before joining HKSYU, I worked as a _Postdoctoral Research Fellow_ and _Research Associate_ at the Department of Language Science and Technology (LST), _The Hong Kong Polytechnic University_, and received my PhD degree in Computational Linguistics from _Indiana University_. 
 
 - My research interests include:
   - Interpretability of Language Models on Chinese Lexical Semantics and Syntax
