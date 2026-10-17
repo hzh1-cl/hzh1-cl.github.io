@@ -23,6 +23,8 @@ Journal
 -----
 * **He Zhou**, Daniel Dakota, Sandra Kübler. Cross-Lingual Dependency Parsing for a Language with a Unique Script. In: Natural Language Processing _with a special issue for_ NLP for Low-Resource Languages, vol. 31(2), 2025. pp. 277-305.
 
+* **He Zhou**, Yu-Yin Hsu. A Corpus-based Analysis of the Function Word _ningge_ in Xibe (基于语料库的锡伯语ningge话题标记功能研究). In: Minority Languages in of China (民族语文), 2026(5). pp. 80-88.
+
 * Feier Gao, Chun-Hau Ngai, **He Zhou**. (2026) The Falling Tone that Rolls Down the Hill and Gets Slumped: Vertical Mapping of Lexical Tones with Motion and Valence. In: _Cognitive Science_, 50(8). [Read Paper Here](https://doi.org/10.1111/cogs.70253).
 
 * **He Zhou**, Zuoyu Tian, Trey Jagiella. Tone 4 Sandhi in Heze Chinese. In: IULC Working Papers, vol.24, no.1, 2024.
